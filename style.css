@@ -133,7 +133,7 @@ img {
 
 .nav-link {
    transition: color 0.3s ease 0s;
-   color: rgb(214, 214, 214);
+   color: #000000 !important ;
    font-size: 14px;
    font-weight: 500;
 }

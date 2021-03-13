@@ -139,11 +139,11 @@ img {
 }
 
 .nav-link.active {
-   color: #fff;
+   color: #00C7B7;
 }
 
 .nav-link:hover {
-   color: #fff !important;
+   color: #00C7B7 !important;
 }
 
 .navbar-nav .input-group input {

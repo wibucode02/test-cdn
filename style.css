@@ -271,6 +271,7 @@ img {
 
 }
 
+
 .lead {
    font-size: 11px !important;
    font-weight: 500;
@@ -347,6 +348,13 @@ img {
 .page-item.disabled .page-link {
    color: #6c757d !important;
 }
+
+
+#disqus_thread > iframe[src*="ads-iframe"] {
+   display: none !important;
+}
+
+
 
 /* News Letter */
 .news-let {

@@ -18,6 +18,10 @@ a{
    color: #00C7B7 !important;
 }
 
+p{
+   font-size: 18px !important;
+}
+
 
 [data-theme="dark"] {
    background-color: #0D1219 !important;

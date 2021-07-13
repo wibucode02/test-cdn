@@ -725,3 +725,11 @@ img {
       margin-right: 10px !important;
    }
 }
+
+@media (max-width: 410px) {
+
+   .slide-out-up{
+      font-size: 20px !important;
+   }
+}
+
